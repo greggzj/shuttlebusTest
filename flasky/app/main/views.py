@@ -6,6 +6,7 @@ from .forms import NameForm, EditProfileForm
 from .. import db
 from ..models import User
 from flask_login import login_required, current_user
+from flask import flash
 
 @main.route('/', methods=['GET', 'POST'])
 def index():
