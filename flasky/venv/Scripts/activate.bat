@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=c:\hzj\04_work\14_shuttle_bus\01_research\01_web_server_flask\02_test2\flasky\venv"
+set "VIRTUAL_ENV=c:\hzj\04_work\14_shuttle_bus\01_research\01_web_server_flask\02_test2\shuttlebusTest\flasky\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
